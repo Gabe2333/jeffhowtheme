@@ -7,6 +7,8 @@
     ----------------------------------------------------------------- 
 
 
+Hello Hello
+
 Welcome to your WordPress website on Cloud9 IDE!
 
 To get you started, we've already...
